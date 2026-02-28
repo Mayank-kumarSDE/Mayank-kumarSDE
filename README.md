@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Booking Service](https://github.com/Mayank-kumarSDE/bookingService)
 
-- 🌱 I’m currently learning **Langchain , LangGraph , LLM , GenAI , HLD**
+- 🌱 I’m currently learning **Langchain , LangGraph , LLM , GenAI **
 
-- 💬 Ask me about **restAPI, nodejs , c++, Concurrency , MySql, MongoDb**
+- 💬 Ask me about **restAPI, nodejs , c++, Concurrency , MySql, MongoDb , Idempotency, HLD, Authenticaton **
 
 - 📫 How to reach me **mayankkumar8481@gmail.com**
 
